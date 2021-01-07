@@ -1,0 +1,548 @@
+2021.01.07 11:00:23 INFO  Started: Metals version 0.9.8 in workspace '/home/jacob/project0' for client vscode.
+2021.01.07 11:00:24 INFO  time: initialize in 0.91s
+2021.01.07 11:00:26 WARN  Build server is not auto-connectable.
+2021.01.07 11:00:26 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:00:39 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/example/Hello.scala
+2021.01.07 11:00:46 INFO  no build target: using presentation compiler with only scala-library
+2021.01.07 11:02:35 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:37 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:38 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:38 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:41 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:45 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:45 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:45 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:45 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:02:59 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:07 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:07 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:14 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:14 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:43 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:45 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:46 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:46 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:46 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:03:53 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:04:16 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:04:16 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:04:16 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:04:35 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:04:35 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:04:35 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:05:53 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:05:54 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:06:00 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:06:54 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:06:54 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jan 07, 2021 11:06:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+2021.01.07 11:07:00 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:07:02 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:07:02 WARN  no build tool detected in workspace '/home/jacob/project0'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.07 11:10:56 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+Jan 07, 2021 11:11:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+Jan 07, 2021 11:11:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 252
+Jan 07, 2021 11:11:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 254
+Jan 07, 2021 11:11:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 285
+Jan 07, 2021 11:11:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 323
+Jan 07, 2021 11:11:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 325
+2021.01.07 11:12:21 INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8334773745036135716/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2021.01.07 11:12:21 WARN  no build target for: /home/jacob/project0/project/metals.sbt
+2021.01.07 11:12:21 WARN  no build target for: /home/jacob/project0/project/project/metals.sbt
+2021.01.07 11:12:31 INFO  [info] welcome to sbt 1.4.6 (Private Build Java 1.8.0_275)
+2021.01.07 11:12:44 INFO  [info] loading settings for project project0-build-build from metals.sbt ...
+2021.01.07 11:12:48 INFO  [info] loading project definition from /home/jacob/project0/project/project
+2021.01.07 11:12:56 INFO  [info] loading settings for project project0-build from metals.sbt ...
+2021.01.07 11:12:57 INFO  [info] loading project definition from /home/jacob/project0/project
+Jan 07, 2021 11:13:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 341
+2021.01.07 11:13:11 INFO  [success] Generated .bloop/project0-build.json
+2021.01.07 11:13:11 INFO  [success] Total time: 14 s, completed Jan 7, 2021 11:13:12 AM
+2021.01.07 11:13:13 INFO  [info] set current project to project0 (in build file:/home/jacob/project0/)
+2021.01.07 11:13:14 INFO  [success] Generated .bloop/project0-test.json
+2021.01.07 11:13:14 INFO  [success] Generated .bloop/project0.json
+2021.01.07 11:13:14 INFO  [success] Total time: 1 s, completed Jan 7, 2021 11:13:14 AM
+2021.01.07 11:13:14 INFO  sbt bloopInstall exit: 0
+2021.01.07 11:13:15 INFO  time: ran 'sbt bloopInstall' in 54s
+2021.01.07 11:13:15 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher5546916167699596670/bsp.socket'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from '/home/jacob/project0/.bloop'...
+[0m[32m[D][0m Loading project from '/home/jacob/project0/.bloop/project0.json'
+[0m[32m[D][0m Loading project from '/home/jacob/project0/.bloop/project0-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.12.
+[0m[32m[D][0m   => /home/jacob/.sbt/boot/scala-2.12.12/lib/jansi.jar
+[0m[32m[D][0m   => /home/jacob/.sbt/boot/scala-2.12.12/lib/jline.jar
+[0m[32m[D][0m   => /home/jacob/.sbt/boot/scala-2.12.12/lib/scala-compiler.jar
+[0m[32m[D][0m   => /home/jacob/.sbt/boot/scala-2.12.12/lib/scala-library.jar
+[0m[32m[D][0m   => /home/jacob/.sbt/boot/scala-2.12.12/lib/scala-reflect.jar
+[0m[32m[D][0m   => /home/jacob/.sbt/boot/scala-2.12.12/lib/scala-xml_2.12.jar
+[0m[32m[D][0m Missing analysis file for project 'project0'
+[0m[32m[D][0m Missing analysis file for project 'project0-test'
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher5546916167699596670/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher5546916167699596670/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.07 11:13:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jacob/.cache/metals/bsp.trace.json
+2021.01.07 11:13:20 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher5371731570668043904/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher5371731570668043904/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher5371731570668043904/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.07 11:13:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jacob/.cache/metals/bsp.trace.json
+2021.01.07 11:13:21 INFO  time: connected to build server in 6.36s
+2021.01.07 11:13:21 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.07 11:13:22 INFO  time: imported build in 0.41s
+2021.01.07 11:13:23 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.07 11:13:31 INFO  time: indexed workspace in 9.38s
+2021.01.07 11:13:31 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+2021.01.07 11:13:31 INFO  skipping build import with status 'Installed'
+2021.01.07 11:13:40 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+2021.01.07 11:14:30 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:14:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+Jan 07, 2021 11:14:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2021.01.07 11:15:01 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:19:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 428
+Jan 07, 2021 11:20:21 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 07, 2021 11:20:21 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:239)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:26)
+
+Jan 07, 2021 11:21:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 632
+Jan 07, 2021 11:22:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 651
+Jan 07, 2021 11:22:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 662
+Jan 07, 2021 11:22:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 705
+Jan 07, 2021 11:22:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 727
+Jan 07, 2021 11:22:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 737
+Jan 07, 2021 11:22:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 746
+Jan 07, 2021 11:22:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 745
+Jan 07, 2021 11:22:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 747
+Jan 07, 2021 11:23:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 779
+Jan 07, 2021 11:23:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 780
+Jan 07, 2021 11:23:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 786
+Jan 07, 2021 11:23:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 787
+Jan 07, 2021 11:23:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 790
+Jan 07, 2021 11:23:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 807
+Jan 07, 2021 11:23:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 850
+Jan 07, 2021 11:23:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 867
+Jan 07, 2021 11:23:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 901
+Jan 07, 2021 11:24:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 942
+Jan 07, 2021 11:24:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 943
+Jan 07, 2021 11:24:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 959
+Jan 07, 2021 11:24:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 968
+Jan 07, 2021 11:24:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 982
+Jan 07, 2021 11:24:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 983
+Jan 07, 2021 11:24:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1064
+Jan 07, 2021 11:24:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1067
+Jan 07, 2021 11:25:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1118
+Jan 07, 2021 11:25:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1140
+Jan 07, 2021 11:26:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1150
+Jan 07, 2021 11:26:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1165
+Jan 07, 2021 11:26:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1221
+Jan 07, 2021 11:26:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1222
+Jan 07, 2021 11:26:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1233
+Jan 07, 2021 11:26:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1242
+Jan 07, 2021 11:27:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1285
+Jan 07, 2021 11:27:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1318
+2021.01.07 11:28:13 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:28:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1360
+2021.01.07 11:28:18 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+2021.01.07 11:28:31 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+2021.01.07 11:28:48 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+2021.01.07 11:29:03 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+Jan 07, 2021 11:29:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1397
+2021.01.07 11:29:32 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:29:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1412
+Jan 07, 2021 11:29:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1416
+Jan 07, 2021 11:29:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1417
+Jan 07, 2021 11:29:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1418
+Jan 07, 2021 11:29:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1419
+2021.01.07 11:29:39 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Runner.scala
+Jan 07, 2021 11:29:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1425
+Jan 07, 2021 11:31:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1505
+Jan 07, 2021 11:31:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1506
+2021.01.07 11:31:10 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:31:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1534
+Jan 07, 2021 11:32:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1539
+2021.01.07 11:32:40 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:32:48 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:33:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1582
+Jan 07, 2021 11:33:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1583
+Jan 07, 2021 11:33:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1589
+2021.01.07 11:33:31 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:34:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1678
+Jan 07, 2021 11:34:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1690
+Jan 07, 2021 11:34:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1700
+Jan 07, 2021 11:35:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1746
+Jan 07, 2021 11:35:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1803
+Jan 07, 2021 11:35:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1817
+Jan 07, 2021 11:35:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1818
+Jan 07, 2021 11:35:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1819
+Jan 07, 2021 11:36:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1830
+Jan 07, 2021 11:36:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1861
+Jan 07, 2021 11:36:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1862
+Jan 07, 2021 11:36:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1879
+Jan 07, 2021 11:36:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1902
+Jan 07, 2021 11:36:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1903
+Jan 07, 2021 11:36:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1930
+Jan 07, 2021 11:36:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1931
+Jan 07, 2021 11:36:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1941
+Jan 07, 2021 11:36:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1942
+Jan 07, 2021 11:36:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2003
+Jan 07, 2021 11:37:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2016
+Jan 07, 2021 11:37:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2017
+Jan 07, 2021 11:37:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2031
+Jan 07, 2021 11:37:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2032
+Jan 07, 2021 11:37:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2036
+Jan 07, 2021 11:37:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2048
+Jan 07, 2021 11:37:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2049
+Jan 07, 2021 11:37:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2050
+Jan 07, 2021 11:37:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2073
+Jan 07, 2021 11:37:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2086
+Jan 07, 2021 11:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2131
+Jan 07, 2021 11:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2132
+Jan 07, 2021 11:37:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2150
+Jan 07, 2021 11:37:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2151
+Jan 07, 2021 11:37:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2152
+Jan 07, 2021 11:37:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2153
+2021.01.07 11:37:35 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:38:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2197
+Jan 07, 2021 11:38:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2218
+Jan 07, 2021 11:38:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2219
+Jan 07, 2021 11:38:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2240
+Jan 07, 2021 11:38:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2241
+Jan 07, 2021 11:39:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2253
+Jan 07, 2021 11:39:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2255
+Jan 07, 2021 11:39:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2289
+Jan 07, 2021 11:39:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2290
+Jan 07, 2021 11:39:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2348
+Jan 07, 2021 11:39:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2349
+Jan 07, 2021 11:40:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2384
+2021.01.07 11:40:09 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:40:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2408
+Jan 07, 2021 11:40:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2463
+Jan 07, 2021 11:40:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2466
+Jan 07, 2021 11:40:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2467
+Jan 07, 2021 11:41:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2499
+2021.01.07 11:41:59 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:42:12 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:42:30 WARN  code navigation does not work for the file '/home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala' because it doesn't belong to a build target.
+2021.01.07 11:42:34 WARN  code navigation does not work for the file '/home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala' because it doesn't belong to a build target.
+Jan 07, 2021 11:43:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2604
+Jan 07, 2021 11:43:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2621
+Jan 07, 2021 11:43:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2620
+Jan 07, 2021 11:43:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2626
+2021.01.07 11:43:35 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:44:53 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:45:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2735
+2021.01.07 11:45:29 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:46:44 WARN  code navigation does not work for the file '/home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala' because it doesn't belong to a build target.
+Jan 07, 2021 11:46:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2758
+2021.01.07 11:46:46 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:47:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2778
+Jan 07, 2021 11:47:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2779
+Jan 07, 2021 11:47:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2847
+Jan 07, 2021 11:47:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2861
+Jan 07, 2021 11:47:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2862
+Jan 07, 2021 11:47:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2863
+Jan 07, 2021 11:47:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2864
+Jan 07, 2021 11:47:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2869
+Jan 07, 2021 11:47:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2870
+Jan 07, 2021 11:47:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2871
+Jan 07, 2021 11:47:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2872
+Jan 07, 2021 11:47:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2911
+Jan 07, 2021 11:47:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2912
+Jan 07, 2021 11:47:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2972
+Jan 07, 2021 11:47:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2982
+Jan 07, 2021 11:47:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2991
+Jan 07, 2021 11:48:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3057
+Jan 07, 2021 11:48:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3058
+Jan 07, 2021 11:48:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3120
+Jan 07, 2021 11:48:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3121
+Jan 07, 2021 11:48:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3122
+Jan 07, 2021 11:48:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3124
+Jan 07, 2021 11:48:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3177
+Jan 07, 2021 11:48:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3178
+2021.01.07 11:49:27 WARN  code navigation does not work for the file '/home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala' because it doesn't belong to a build target.
+Jan 07, 2021 11:49:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3218
+Jan 07, 2021 11:49:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3219
+Jan 07, 2021 11:49:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3220
+Jan 07, 2021 11:49:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3222
+Jan 07, 2021 11:49:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3242
+Jan 07, 2021 11:49:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3246
+Jan 07, 2021 11:49:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3248
+Jan 07, 2021 11:49:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3251
+Jan 07, 2021 11:50:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3307
+Jan 07, 2021 11:50:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3316
+Jan 07, 2021 11:50:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3367
+Jan 07, 2021 11:50:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3373
+Jan 07, 2021 11:50:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3374
+Jan 07, 2021 11:50:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3416
+Jan 07, 2021 11:50:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3417
+2021.01.07 11:50:46 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:50:50 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+2021.01.07 11:51:08 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:51:16 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:51:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3457
+Jan 07, 2021 11:51:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3460
+2021.01.07 11:51:29 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:51:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3469
+Jan 07, 2021 11:51:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3470
+Jan 07, 2021 11:52:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3480
+Jan 07, 2021 11:52:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3509
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3534
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3535
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3536
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3537
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3538
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3539
+Jan 07, 2021 11:52:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3540
+Jan 07, 2021 11:52:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3548
+Jan 07, 2021 11:52:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3554
+Jan 07, 2021 11:52:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3552
+Jan 07, 2021 11:52:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3553
+Jan 07, 2021 11:52:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3557
+Jan 07, 2021 11:52:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3562
+Jan 07, 2021 11:52:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3558
+Jan 07, 2021 11:52:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3574
+Jan 07, 2021 11:52:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3591
+Jan 07, 2021 11:52:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3603
+Jan 07, 2021 11:52:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3605
+Jan 07, 2021 11:52:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3606
+Jan 07, 2021 11:53:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3624
+Jan 07, 2021 11:53:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3626
+Jan 07, 2021 11:53:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3630
+Jan 07, 2021 11:53:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3664
+Jan 07, 2021 11:53:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3692
+Jan 07, 2021 11:53:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3693
+Jan 07, 2021 11:53:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3694
+2021.01.07 11:53:30 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:53:49 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:53:53 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+2021.01.07 11:56:58 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 11:57:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3745
+2021.01.07 11:57:20 WARN  no build target for: /home/jacob/project0/bank/src/main/scala/com/revature/wccli/Cli.scala
+Jan 07, 2021 12:08:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3774
