@@ -1,7 +1,7 @@
 package com.revature.wccli
 
 
-object Runner extends App {
+object Runner {
 
    val cli = new Cli
    cli.menu()
