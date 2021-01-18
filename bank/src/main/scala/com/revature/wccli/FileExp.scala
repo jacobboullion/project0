@@ -3,19 +3,23 @@ package com.revature.wccli
 import scala.io.BufferedSource
 import scala.io.Source
 import java.io.File
+import scala.collection.mutable.ArrayBuffer
 
 object FileExp {
 
-    def getExpenses (filename: String, sep: String = " ") : Array[Double] = {
+    def getExpenses (filename: String, sep: String = " ") : ArrayBuffer[Array[String]] = {
 
         var openedFile : BufferedSource = null
-        //var array : Array[Double] = Array.empty
+        val rows = ArrayBuffer[Array[String]]()
 
         try{
             openedFile = Source.fromFile(filename)
-            val array : Array[Double] = openedFile.getLines().flatMap(_.split(",")).map(_.toDouble).toArray
-            return array
 
+            for (line <- openedFile.getLines) {
+                rows += line.split(",").map(_.trim)
+            }
+
+            rows
             //openedFile.getLines().mkString(" ")
             
         }finally{
