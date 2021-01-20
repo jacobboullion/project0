@@ -17,13 +17,14 @@ class BankCli {
     //options 
     def printOptions() : Unit ={
         
-        println("***commands available***")
+        println("\n***Bank commands available***")
         println("exit [exits the program]: command line will stop")
         println("printExp [filename]: prints expenses")
         println("printToTable [filename]: prints expenses to a database")
-        println("printExp [filename]: prints expenses")
         println("add person: adds person")
-        println("update person: update expense of a person")
+        println("update expense: update expense of a person")
+        println("update first: update first name of a person")
+        println("update last: update last name of a person")
         println("delete person: deletes a person")
         println("print expenses: prints expenses")
         //println("subForty [filename] : subtracts $40 from all expenses")
@@ -61,8 +62,18 @@ class BankCli {
             }
 
             case commandArgPattern(cmd, arg)
-            if cmd.equalsIgnoreCase("update") && arg.equalsIgnoreCase("person") => {
+            if cmd.equalsIgnoreCase("update") && arg.equalsIgnoreCase("expense") => {
                 runUpdatePersonSubMenu()
+            }
+
+            case commandArgPattern(cmd, arg)
+            if cmd.equalsIgnoreCase("update") && arg.equalsIgnoreCase("first") => {
+                runUpdateFirstNameSubMenu()
+            }
+
+            case commandArgPattern(cmd, arg)
+            if cmd.equalsIgnoreCase("update") && arg.equalsIgnoreCase("last") => {
+                runUpdateLastNameSubMenu()
             }
 
             case commandArgPattern(cmd, arg)
@@ -108,19 +119,31 @@ class BankCli {
 
     def printExpToTable(arg: String) : Unit = {
         var expArray = ArrayBuffer[Array[String]]()
+        var tableDone : Boolean = false
         try{
             expArray = FileExp.getExpenses(arg)
             for (i <- 0 until expArray.length) {
-                PersonDao.saveNew(Person(expArray(i)(0).toInt, expArray(i)(1), expArray(i)(2), expArray(i)(3).toInt))
-        
-    }
+                if(PersonDao.saveNew(Person(expArray(i)(0).toInt, expArray(i)(1), expArray(i)(2), expArray(i)(3).toInt))){
+                  tableDone = true
+                } else{
+                  tableDone = false
+                }
+        }
         } catch{
             case fnfe: FileNotFoundException => println(s"Failed to find file: ${fnfe.getMessage()}")
+        }
+
+        if(tableDone){
+          println("Records added to table!")
         }
     } 
 
   def printAllPeople(): Unit = {
-    PersonDao.getAll().foreach(println)
+    val all : Seq[Person] = PersonDao.getAll()
+
+    for(i <- 0 until all.length){
+      println(s"[${all(i).user_id}, ${all(i).first_name}, ${all(i).last_name}, ${all(i).expense}]")
+    }
   }
 
   def printFirstName(first_name: String): Unit = {
@@ -128,7 +151,7 @@ class BankCli {
   }
   
   /**
-    * runs an add book sub menu, we're skipping some QoL features present on the main menu
+    * 
     */
   def runAddPersonSubMenu(): Unit = {
     println("First Name?")
@@ -160,6 +183,40 @@ class BankCli {
     } catch {
       case e : Exception => {
         println("failed to update expense.")
+        
+      }
+    }
+  }
+
+  def runUpdateFirstNameSubMenu(): Unit = {
+    println("First Name?")
+    val firstInput = StdIn.readLine()
+    println("The user_id of the first name you want to change?")
+    val idInput = StdIn.readLine().toInt
+    try {
+      if (PersonDao.updateFirstName(Person(idInput, firstInput,"", 0))) {
+        println(s"updated first name of id = $idInput!")
+      } 
+    } catch {
+      case e : Exception => {
+        println("failed to update first name.")
+        
+      }
+    }
+  }
+
+  def runUpdateLastNameSubMenu(): Unit = {
+    println("Last Name?")
+    val lastInput = StdIn.readLine()
+    println("The user_id of the expense you want to change?")
+    val idInput = StdIn.readLine().toInt
+    try {
+      if (PersonDao.updateLastName(Person(idInput, "", lastInput, 0))) {
+        println(s"updated last name of id = $idInput!")
+      } 
+    } catch {
+      case e : Exception => {
+        println("failed to update last name.")
         
       }
     }

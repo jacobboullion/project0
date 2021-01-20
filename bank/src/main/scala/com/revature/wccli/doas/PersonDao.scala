@@ -6,7 +6,7 @@ import scala.util.Using
 import scala.collection.mutable.ArrayBuffer
 import java.sql.Connection
 
-/** A Book Data Access Object.  BookDao has CRUD methods for Books
+/*
   *
   * It allows us to keep all of our database access logic in this file,
   * while still allowing the rest of our application to use Books
@@ -14,14 +14,14 @@ import java.sql.Connection
   */
 object PersonDao {
 
-  /** Retrieves all Books from the book table in the db
+  /** 
     *
     * @return
     */
   def getAll(): Seq[Person] = {
     val conn = ConnectionUtil.getConnection();
     Using.Manager { use =>
-      val stmt = use(conn.prepareStatement("SELECT * FROM project0.expenses;"))
+      val stmt = use(conn.prepareStatement("SELECT * FROM project0.expenses ORDER BY user_id ASC;"))
       stmt.execute()
       val rs = use(stmt.getResultSet())
       // lets use an ArrayBuffer, we're adding one element at a time
@@ -71,6 +71,32 @@ object PersonDao {
     Using.Manager {use => 
       val stmt = use(conn.prepareStatement("UPDATE project0.expenses SET  expense = ? where user_id = ?"))
       stmt.setInt(1, person.expense)
+      stmt.setInt(2, person.user_id)
+      stmt.execute()
+
+      stmt.getUpdateCount() > 0
+
+    }.getOrElse(false)
+  }
+
+  def updateFirstName(person : Person) : Boolean = {
+    val conn = ConnectionUtil.getConnection()
+    Using.Manager {use => 
+      val stmt = use(conn.prepareStatement("UPDATE project0.expenses SET  first_name = ? where user_id = ?"))
+      stmt.setString(1, person.first_name)
+      stmt.setInt(2, person.user_id)
+      stmt.execute()
+
+      stmt.getUpdateCount() > 0
+
+    }.getOrElse(false)
+  }
+
+  def updateLastName(person : Person) : Boolean = {
+    val conn = ConnectionUtil.getConnection()
+    Using.Manager {use => 
+      val stmt = use(conn.prepareStatement("UPDATE project0.expenses SET  last_name = ? where user_id = ?"))
+      stmt.setString(1, person.last_name)
       stmt.setInt(2, person.user_id)
       stmt.execute()
 
